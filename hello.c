@@ -12,7 +12,7 @@
 const char message[] =
 	"\n"
 	"Hello from Perfect Pattern!\n"
-	"This message shows that your installation appears to be working correctly.\n"
+	"This message shows that your installation appears to be working correctly!\n"
 	"\n"
 	"\n";
 
